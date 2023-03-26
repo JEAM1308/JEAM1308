@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🙋🏻‍♂️ About Me:
-📚 Currently, I'm a Computer and Systems Engineering student at Universidad de los Andes, Colombia<br>🎯 I want to focus my career in Data Science and Software Architecture<br>🧠 I like to get the job well-done. That's why I strive to ensure that my work is effective, efficient, and sustainable.<br>✍️ "If I had six hours to chop down a tree, I'd spend four sharpening my axe." - Abraham Lincoln
+📚 Currently, I'm a Computer and Systems Engineering student at Universidad de los Andes, Colombia<br><br>🎯 I want to focus my career in Data Science and Software Architecture<br><br>🧠 I like to get the job well-done. That's why I strive to ensure that my work is effective, efficient, and sustainable.<br><br>✍️ "If I had six hours to chop down a tree, I'd spend four sharpening my axe." - Abraham Lincoln<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanesarbol/?hl=es-la) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-esteban-arboleda-miranda-24346126b/) 
